@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YuIshida
 - 👀 I’m interested in Scientific Computing
-- 🌱 I’m currently learning Julia
+- 🌱 I’m currently learning Python, Node.js and docker.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
